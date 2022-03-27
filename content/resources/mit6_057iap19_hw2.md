@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ee410db-adb1-e811-373f-c97bd88937db
 resourcetype: Document
 title: 6.057 Introduction to MATLAB, Homework 2
 uid: 1c9298a5-25ec-7cd6-5c80-b462fd9a23ea

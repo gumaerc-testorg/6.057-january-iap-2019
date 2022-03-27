@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b39a15e0-0b77-1273-ccfb-cb41acf4d7f8
 resourcetype: Document
 title: '6.057 Introduction to MATLAB, Lecture 2: Visualization and Programming'
 uid: c82a7a66-79f4-69ab-a095-03b4762feb58
