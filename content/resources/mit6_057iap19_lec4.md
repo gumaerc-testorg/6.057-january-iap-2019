@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-057-introduction-to-matlab-january-iap-2019/5bf90870a8fa2a2f603c57e132470c37_MIT6_057IAP19_lec4.pdf
+file: /courses/6-057-introduction-to-matlab-january-iap-2019/5bf90870a8fa2a2f603c57e132470c37_MIT6_057IAP19_lec4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
