@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus for 6.057 Introduction to MATLAB including course description
+  and grading scheme.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1feec69d-0288-d84b-13fc-bf812ac46748
 ---
