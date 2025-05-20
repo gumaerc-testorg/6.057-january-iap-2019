@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-057-introduction-to-matlab-january-iap-2019/ec4db10efb1bf8c244d8c93a88f77116_MIT6_057IAP19_hw4.pdf
+file: /courses/6-057-introduction-to-matlab-january-iap-2019/ec4db10efb1bf8c244d8c93a88f77116_MIT6_057IAP19_hw4.pdf
 file_size: 362828
 file_type: application/pdf
 learning_resource_types:
