@@ -28,7 +28,7 @@ At the end of the day, our most important goal is that you gain useful computati
 Grading
 -------
 
-This class is graded [Pass / D / Fail](https://registrar.mit.edu/classes-grades-evaluations/grades/grading-policies/junior-senior-pdf-option). Four of the five sessions are required attendance. There are four problem sets, due daily. The first one will be released after the first class, and it will be due before the second class. The last problem set will be due before the last class. Problem set grading will be done coarsely (i.e. we will not penalize you for minor mistakes). There are no exams.
+This class is graded {{% resource_link "800293cf-e271-49f8-92b1-9af67629d3c1" "Pass / D / Fail" %}}. Four of the five sessions are required attendance. There are four problem sets, due daily. The first one will be released after the first class, and it will be due before the second class. The last problem set will be due before the last class. Problem set grading will be done coarsely (i.e. we will not penalize you for minor mistakes). There are no exams.
 
 Calendar
 --------
